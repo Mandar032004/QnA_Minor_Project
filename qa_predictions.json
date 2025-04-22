@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "context": "France's capital, Paris, is known for the Eiffel Tower.",
+    "emotion": "neutral",
+    "predicted_answer": "Paris"
+  },
+  {
+    "question": "Why did she cry during the movie?",
+    "context": "The emotional scene made her cry during the movie.",
+    "emotion": "sad",
+    "predicted_answer": "The emotional scene"
+  }
+]

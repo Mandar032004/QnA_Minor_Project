@@ -1,0 +1,9 @@
+{
+  "best_metric": {
+    "eval_f1": 85.6,
+    "eval_exact_match": 78.3
+  },
+  "epoch": 3,
+  "training_loss": 0.22,
+  "global_step": 21900
+}
